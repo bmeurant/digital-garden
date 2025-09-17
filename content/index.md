@@ -1,6 +1,9 @@
 ---
-title: Welcome to Quartz
+title: bmeurant's Digital Garden
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+I'm Baptiste Meurant, Technical Director, Architect, Senior Tech Lead, Full Stack developer
+
+[**Github**](https://github.com/bmeurant) | [**LinkedIn**](https://www.linkedin.com/in/baptistemeurant/) | [**roadmap.sh**](https://roadmap.sh/u/bmeurant)
+
+This is a space where I store notes and documentation on technical subjects related to software development, software architecture, platforms, generative AI, etc. All the topics that I am led to explore, discover, and share.
