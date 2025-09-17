@@ -32,8 +32,8 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Copy files to content folder
         run: |
-          mkdir -p content/technical-docs
           cp -r technical-docs/* content/
+          find content -name "README.md" -delete
       - uses: actions/setup-node@v4
         with:
           node-version: 22
